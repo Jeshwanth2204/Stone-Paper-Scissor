@@ -1,5 +1,3 @@
-
-
 print('THE ROCK OF ROME 🪨 , POWER OF PAPAER 📄, SUPER SCISSOR ✂️ ')
 print()
 print('Select your power(R, S or P)' )
@@ -24,11 +22,9 @@ while True:
       elif player_2 == 'S':
         print('Rock broke the Scissor')
         player1_score +=1
-      
       else:
         print ('Invalid syntax, not in my codes in your input !')
     
-  
     elif player_1 == 'P':
       if player_2 == 'P':
         print('Both Papers became friends')
@@ -63,7 +59,6 @@ while True:
       break
     
     else:
-
       continue
 
     
