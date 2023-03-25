@@ -1,4 +1,4 @@
-from getpass import getpass as input
+
 
 print('THE ROCK OF ROME 🪨 , POWER OF PAPAER 📄, SUPER SCISSOR ✂️ ')
 print()
