@@ -1,7 +1,8 @@
 # Stone Paper Scissor Game
 
 This is a simple game of Stone Paper Scissor, built using Python. Two players can play this game against each other.
-How to play
+
+# How to play
     Run the stone_paper_scissor.py file.
     Player 1 enters their move when prompted. They can enter stone, paper, or scissor.
     Player 2 enters their move when prompted.
